@@ -2,7 +2,7 @@ export const config = {
   "mapTitle": "meat consumption in europe", // The title of the map, if more than one word, separate by dash, e.g. "income-europe"
   "vercelURL": "map-per-capita-meat-consumption.vercel.app", // The url provided when deploying the map on Vercel
   "datasetType": "values", // "values" or "binary"; Does the data set contain numerical values or binary (0/1) values for countries?
-  "datasetUnit": "kilogrammes/capita", // "fullNumbers" or "percent"; Is the data in percent (0.25 of GDP) or full numbers (25 people)?
+  "datasetUnit": "fullNumbers", // "fullNumbers" or "percent"; Is the data in percent (0.25 of GDP) or full numbers (25 people)?
   "colourScheme": "orange-red", // one of the following: "blue", "purple-blue", "green-blue", "orange-red"
   "headlineAvailable": true, // true or false; Should the map have a headline? 
   "subheadlineAvailable": true, // true or false; Should the map have a subheadline? 
