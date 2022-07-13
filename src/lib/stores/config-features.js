@@ -11,7 +11,7 @@ export const config = {
   "legendAvailable": true, // true or false; Should the map show a legend in the bottom right corner? 
   "textSourceAvailable": true, // true or false; Should the map show a source text below the map? 
   "textNoteAvailable": false, // true or false; Should the map show a text note below the map? 
-  "textDataAccessAvailable": true, // true or false; Should the map show a link to the original data source below the map? 
+  "textDataAccessAvailable": false, // true or false; Should the map show a link to the original data source below the map? 
   "legend1Color": "#cad1d9", // Specifies the color of the first round dot in the legend entry
   "legend2Color": "red", // Specifies the color of the second round dot in the legend entry
   "legend3Color": "blue", // Specifies the color of the third round dot in the legend entry
