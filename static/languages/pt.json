@@ -1,23 +1,13 @@
 {
   "heading": "Consumo de carne na UE",
-  "subheading": "Consumo de carne per capita em quilogramas na UE (carne bovina / suína / aves / ovino / outras carnes)",
+  "subheading": "Consumo de carne per capita em quilogramas na UE (carne bovina e de vitela / carne suína / aves / ovelha / outras carnes)",
   "legend1": "Nenhum dado disponível",
   "tooltip1": "kg por pessoa",
   "textSourceDescription": "Fonte",
-  "textSource": "Organização das Nações Unidas para Agricultura e Alimentação",
+  "textSource": "Organização das Nações Unidas para a Alimentação e a Agricultura",
   "textNoteDescription": "Observação",
-  "textNote": "Os dados referem-se à carne 'disponível para consumo'. O consumo real pode ser menor após a correção do desperdício de alimentos.",
+  "textNote": "Os dados referem-se à carne 'disponível para consumo'. O consumo real pode ser menor após a correção para desperdício de alimentos.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
-  "textCountryClick": "Clique para mais informações",
-  "extraInfoText_AL": "País candidato desde 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "País candidato desde 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "País candidato desde 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "País candidato desde 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "País candidato desde 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Clique para mais informações"
 }

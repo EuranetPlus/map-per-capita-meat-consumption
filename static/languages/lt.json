@@ -1,23 +1,13 @@
 {
   "heading": "Mėsos vartojimas ES",
-  "subheading": "Mėsos suvartojimas vienam gyventojui ES kilogramais (jautiena / kiauliena / paukštiena / aviena / kita mėsa)",
+  "subheading": "Mėsos suvartojimas kilogramais vienam gyventojui ES (jautiena ir veršiena / kiauliena / paukštiena / aviena / kita mėsa)",
   "legend1": "Nėra duomenų",
   "tooltip1": "kg vienam asmeniui",
   "textSourceDescription": "Šaltinis",
   "textSource": "Jungtinių Tautų Maisto ir žemės ūkio organizacija",
   "textNoteDescription": "Pastaba",
-  "textNote": "Duomenys susiję su mėsa, „galima vartoti“. Faktinis suvartojimas gali būti mažesnis po to, kai ištaisysite maisto švaistymą.",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Duomenys susiję su „vartoti skirta“ mėsa. Faktinis suvartojimas gali būti mažesnis, įskaičiavus maisto švaistymą.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
-  "extraInfoText_AL": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Šalis kandidatė nuo 2010 m",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Šalis kandidatė nuo 2005 m",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Šalis kandidatė nuo 2003 m",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

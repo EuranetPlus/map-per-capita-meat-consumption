@@ -1,23 +1,13 @@
 {
   "heading": "Potrošnja mesa u EU",
-  "subheading": "Potrošnja mesa po glavi stanovnika u kilogramima u EU (govedina i teletina / svinjetina / perad / ovce / ostalo meso)",
+  "subheading": "Potrošnja mesa po glavi stanovnika u kilogramima u EU (govedina i teletina / svinjetina / perad / ovčetina / ostalo meso)",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "kg po osobi",
   "textSourceDescription": "Izvor",
   "textSource": "Organizacija Ujedinjenih naroda za hranu i poljoprivredu",
   "textNoteDescription": "Bilješka",
-  "textNote": "Podaci se odnose na meso 'dostupno za konzumaciju'. Stvarna potrošnja može biti niža nakon korekcije za bacanje hrane.",
-  "textDataAccess": "Pristupite podacima",
+  "textNote": "Podaci se odnose na meso „dostupno za konzumaciju“. Stvarna potrošnja može biti niža nakon korekcije za bacanje hrane.",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
-  "textCountryClick": "Kliknite za više informacija",
-  "extraInfoText_AL": "Država kandidat od 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Država kandidat od 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Država kandidat od 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Država kandidat od 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Država kandidat od 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Kliknite za više informacija"
 }

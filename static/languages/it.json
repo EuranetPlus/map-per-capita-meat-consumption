@@ -1,23 +1,13 @@
 {
   "heading": "Consumo di carne nell'UE",
-  "subheading": "Consumo di carne pro capite in chilogrammi nell'UE (manzo e vitello/maiale/pollame/ovino/altre carni)",
+  "subheading": "Consumo di carne pro capite in chilogrammi nell'UE (carne bovina e bovina / carne suina / carne di pollame / carne ovina / altre carni)",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "kg a persona",
   "textSourceDescription": "Fonte",
   "textSource": "Organizzazione delle Nazioni Unite per l'alimentazione e l'agricoltura",
   "textNoteDescription": "Nota",
-  "textNote": "I dati si riferiscono alla carne 'disponibile al consumo'. Il consumo effettivo può essere inferiore dopo la correzione per lo spreco di cibo.",
+  "textNote": "I dati si riferiscono alla carne 'disponibile per il consumo'. Il consumo effettivo potrebbe essere inferiore dopo la correzione per gli sprechi alimentari.",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
-  "textCountryClick": "Clicca per maggiori informazioni",
-  "extraInfoText_AL": "Paese candidato dal 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Paese candidato dal 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Paese candidato dal 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Paese candidato dal 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Paese candidato dal 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

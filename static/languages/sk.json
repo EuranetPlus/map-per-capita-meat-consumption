@@ -1,23 +1,13 @@
 {
   "heading": "Spotreba mäsa v EÚ",
-  "subheading": "Spotreba mäsa na obyvateľa v kilogramoch v EÚ (hovädzie a teľacie mäso / bravčové mäso / hydina / ovce / iné mäso)",
+  "subheading": "Spotreba mäsa na obyvateľa v kilogramoch v EÚ (hovädzie a teľacie mäso / bravčové mäso / hydina / ovčie mäso / iné mäso)",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "kg na osobu",
   "textSourceDescription": "Zdroj",
   "textSource": "Organizácia Spojených národov pre výživu a poľnohospodárstvo",
   "textNoteDescription": "Poznámka",
-  "textNote": "Údaje sa týkajú mäsa „dostupného na spotrebu“. Skutočná spotreba môže byť nižšia po korekcii na plytvanie potravinami.",
+  "textNote": "Údaje sa vzťahujú na mäso „k dispozícii na spotrebu“. Skutočná spotreba môže byť nižšia po korekcii plytvania potravinami.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
-  "textCountryClick": "Kliknite pre viac informácií",
-  "extraInfoText_AL": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kandidátska krajina od roku 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidátska krajina od roku 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidátska krajina od roku 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Kliknite pre viac informácií"
 }

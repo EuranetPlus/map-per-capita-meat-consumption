@@ -1,23 +1,13 @@
 {
   "heading": "Poraba mesa v EU",
-  "subheading": "Poraba mesa na prebivalca v kilogramih v EU (govedina in teletina / svinjina / perutnina / ovce / drugo meso)",
-  "legend1": "Ni podatkov",
+  "subheading": "Poraba mesa na prebivalca v kilogramih v EU (govedina in teletina / svinjina / perutnina / ovca / drugo meso)",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "kg na osebo",
   "textSourceDescription": "Vir",
   "textSource": "Organizacija Združenih narodov za prehrano in kmetijstvo",
   "textNoteDescription": "Opomba",
-  "textNote": "Podatki se nanašajo na meso, ki je „na voljo za uživanje“. Dejanska poraba je lahko manjša po popravku zaradi zavržene hrane.",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Podatki se nanašajo na meso, „ki je na voljo za uživanje“. Dejanska poraba je lahko po popravku za količino zavržene hrane nižja.",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
-  "textCountryClick": "Kliknite za več informacij",
-  "extraInfoText_AL": "Država kandidatka od leta 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Država kandidatka od leta 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Država kandidatka od leta 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Država kandidatka od leta 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Država kandidatka od leta 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Kliknite za več informacij"
 }

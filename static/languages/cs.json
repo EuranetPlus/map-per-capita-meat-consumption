@@ -1,23 +1,13 @@
 {
   "heading": "Spotřeba masa v EU",
-  "subheading": "Spotřeba masa na hlavu v kilogramech v EU (hovězí a telecí / vepřové / drůbež / ovce / ostatní maso)",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "subheading": "Spotřeba masa na obyvatele v kilogramech v EU (hovězí a telecí maso / vepřové maso / drůbež / skopové maso / ostatní maso)",
+  "legend1": "Žádné údaje k dispozici",
   "tooltip1": "kg na osobu",
   "textSourceDescription": "Zdroj",
-  "textSource": "Organizace spojených národů pro výživu a zemědělství",
+  "textSource": "Organizace OSN pro výživu a zemědělství",
   "textNoteDescription": "Poznámka",
-  "textNote": "Údaje se týkají masa „dostupného ke spotřebě“. Skutečná spotřeba může být po korekci na plýtvání jídlem nižší.",
+  "textNote": "Údaje se vztahují k masu „k dispozici ke spotřebě“. Skutečná spotřeba může být po korekci o plýtvání potravinami nižší.",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
-  "textCountryClick": "Klikněte pro více informací",
-  "extraInfoText_AL": "Kandidátská země od roku 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kandidátská země od roku 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidátská země od roku 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidátská země od roku 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidátská země od roku 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Klikněte pro více informací"
 }

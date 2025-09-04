@@ -1,23 +1,13 @@
 {
   "heading": "Vleesconsumptie in de EU",
-  "subheading": "Vleesconsumptie per hoofd van de bevolking in kilogram in de EU (rund- en kalfsvlees / varkensvlees / gevogelte / schaap / ander vlees)",
+  "subheading": "Vleesconsumptie per hoofd van de bevolking in kilogram in de EU (rund- en kalfsvlees / varkensvlees / pluimvee / schapen / ander vlees)",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "kg per persoon",
   "textSourceDescription": "Bron",
   "textSource": "Voedsel- en Landbouworganisatie van de Verenigde Naties",
   "textNoteDescription": "Opmerking",
-  "textNote": "Gegevens hebben betrekking op vlees 'beschikbaar voor consumptie'. De werkelijke consumptie kan lager zijn na correctie voor voedselverspilling.",
+  "textNote": "De gegevens hebben betrekking op vlees dat 'beschikbaar is voor consumptie'. De werkelijke consumptie kan lager uitvallen na correctie voor voedselverspilling.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
-  "textCountryClick": "Klik voor meer info",
-  "extraInfoText_AL": "Kandidaat-lidstaat sinds 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kandidaat-lidstaat sinds 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidaat-lidstaat sinds 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidaat-lidstaat sinds 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidaat-lidstaat sinds 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Klik voor meer informatie"
 }

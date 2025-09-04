@@ -1,23 +1,13 @@
 {
   "heading": "Spożycie mięsa w UE",
-  "subheading": "Spożycie mięsa na mieszkańca w kilogramach w UE (Wołowina i Cielęcina / Wieprzowina / Drób / Owce / Inne mięsa)",
+  "subheading": "Spożycie mięsa na osobę w kilogramach w UE (wołowina i cielęcina / wieprzowina / drób / baranina / inne mięso)",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "kg na osobę",
   "textSourceDescription": "Źródło",
   "textSource": "Organizacja Narodów Zjednoczonych ds. Wyżywienia i Rolnictwa",
   "textNoteDescription": "Notatka",
-  "textNote": "Dane odnoszą się do mięsa „dostępnego do spożycia”. Rzeczywiste spożycie może być niższe po korekcie o marnotrawienie żywności.",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textNote": "Dane odnoszą się do mięsa „dostępnego do spożycia”. Rzeczywiste spożycie może być niższe po uwzględnieniu marnowania żywności.",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
-  "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
-  "extraInfoText_AL": "Kraj kandydujący od 2003 r.",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kraj kandydujący od 2010 r.",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kraj kandydujący od 2005 r.",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kraj kandydujący od 2003 r.",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kraj kandydujący od 2003 r.",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

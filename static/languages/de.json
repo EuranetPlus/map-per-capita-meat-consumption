@@ -6,18 +6,8 @@
   "textSourceDescription": "Quelle",
   "textSource": "Ernährungs- und Landwirtschaftsorganisation der Vereinten Nationen",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Daten beziehen sich auf „zum Verzehr verfügbares“ Fleisch. Der tatsächliche Verbrauch kann nach der Korrektur der Lebensmittelverschwendung niedriger sein.",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Die Daten beziehen sich auf „zum Verzehr verfügbares“ Fleisch. Der tatsächliche Verbrauch kann nach Berücksichtigung der Lebensmittelverschwendung niedriger ausfallen.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
-  "textCountryClick": "Klicken Sie für weitere Informationen",
-  "extraInfoText_AL": "Kandidatenland seit 2003",
-  "extraInfoLink_AL": "",
-  "extraInfoText_ME": "Kandidatenland seit 2010",
-  "extraInfoLink_ME": "",
-  "extraInfoText_MK": "Kandidatenland seit 2005",
-  "extraInfoLink_MK": "",
-  "extraInfoText_RS": "Kandidatenland seit 2003",
-  "extraInfoLink_RS": "",
-  "extraInfoText_UA": "Kandidatenland seit 2003",
-  "extraInfoLink_UA": ""
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }
