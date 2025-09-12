@@ -1,5 +1,5 @@
 {
-  "heading": "Meat consumption in the EU",
+  "heading": "Meat consumption in the EU in 2021",
   "subheading": "Per capita meat consumption in kilogrammes in the EU (Beef and veal / Pork / Poultry / Sheep  / Other meats)",
   "legend1": "No data available",
   "tooltip1": "kgs per person",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Note",
   "textNote": "Data refers to meat 'available for consumption'. Actual consumption may be lower after correction for food wastage.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Click for more info"
 }
