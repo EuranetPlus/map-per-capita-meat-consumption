@@ -1,5 +1,5 @@
 {
-  "heading": "Potrošnja mesa u EU",
+  "heading": "Potrošnja mesa u EU u 2021. godini",
   "subheading": "Potrošnja mesa po glavi stanovnika u kilogramima u EU (govedina i teletina / svinjetina / perad / ovčetina / ostalo meso)",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "kg po osobi",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Bilješka",
   "textNote": "Podaci se odnose na meso „dostupno za konzumaciju“. Stvarna potrošnja može biti niža nakon korekcije za bacanje hrane.",
   "textDataAccess": "Pristup podacima",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Kliknite za više informacija"
 }

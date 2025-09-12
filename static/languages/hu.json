@@ -1,5 +1,5 @@
 {
-  "heading": "Húsfogyasztás az EU-ban",
+  "heading": "Húsfogyasztás az EU-ban 2021-ben",
   "subheading": "Egy főre jutó húsfogyasztás kilogrammban az EU-ban (marha- és borjúhús / sertéshús / baromfihús / juhhús / egyéb húsok)",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "kg/fő",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Jegyzet",
   "textNote": "Az adatok a „fogyasztásra rendelkezésre álló” húsra vonatkoznak. A tényleges fogyasztás az élelmiszer-pazarlás korrigálása után alacsonyabb lehet.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Kattintson a további információkért"
 }

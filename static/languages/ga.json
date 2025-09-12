@@ -1,5 +1,5 @@
 {
-  "heading": "Tomhaltas feola san AE",
+  "heading": "Tomhaltas feola san AE in 2021",
   "subheading": "Tomhaltas feola in aghaidh an duine i gcileagraim san AE (Mairteoil agus laofheoil / Muiceoil / Éanlaith Chlóis / Caoirigh / Feoil eile)",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "kg in aghaidh an duine",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nóta",
   "textNote": "Tagraíonn na sonraí do fheoil atá 'ar fáil lena tomhaltú'. D’fhéadfadh an tomhaltas iarbhír a bheith níos ísle tar éis ceartúcháin a dhéanamh i leith cur amú bia.",
   "textDataAccess": "Rochtain ar na sonraí",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

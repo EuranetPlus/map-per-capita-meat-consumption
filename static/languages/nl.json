@@ -1,5 +1,5 @@
 {
-  "heading": "Vleesconsumptie in de EU",
+  "heading": "Vleesconsumptie in de EU in 2021",
   "subheading": "Vleesconsumptie per hoofd van de bevolking in kilogram in de EU (rund- en kalfsvlees / varkensvlees / pluimvee / schapen / ander vlees)",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "kg per persoon",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Opmerking",
   "textNote": "De gegevens hebben betrekking op vlees dat 'beschikbaar is voor consumptie'. De werkelijke consumptie kan lager uitvallen na correctie voor voedselverspilling.",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Klik voor meer informatie"
 }

@@ -1,5 +1,5 @@
 {
-  "heading": "Consommation de viande dans l'UE",
+  "heading": "Consommation de viande dans l'UE en 2021",
   "subheading": "Consommation de viande par habitant en kilogrammes dans l'UE (bœuf et veau / porc / volaille / mouton / autres viandes)",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "kg par personne",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Note",
   "textNote": "Les données concernent la viande « disponible à la consommation ». La consommation réelle peut être inférieure après correction pour tenir compte du gaspillage alimentaire.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/consommation-de-viande.html",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

@@ -1,5 +1,5 @@
 {
-  "heading": "Mėsos vartojimas ES",
+  "heading": "Mėsos vartojimas ES 2021 m.",
   "subheading": "Mėsos suvartojimas kilogramais vienam gyventojui ES (jautiena ir veršiena / kiauliena / paukštiena / aviena / kita mėsa)",
   "legend1": "Nėra duomenų",
   "tooltip1": "kg vienam asmeniui",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Pastaba",
   "textNote": "Duomenys susiję su „vartoti skirta“ mėsa. Faktinis suvartojimas gali būti mažesnis, įskaičiavus maisto švaistymą.",
   "textDataAccess": "Prieiga prie duomenų",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

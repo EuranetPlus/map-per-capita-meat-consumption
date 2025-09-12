@@ -1,5 +1,5 @@
 {
-  "heading": "Consumul de carne în UE",
+  "heading": "Consumul de carne în UE în 2021",
   "subheading": "Consumul de carne pe cap de locuitor în kilograme în UE (Vită și vițel / Porc / Păsări de curte / Ovine / Alte tipuri de carne)",
   "legend1": "Nu sunt disponibile date",
   "tooltip1": "kilograme de persoană",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nota",
   "textNote": "Datele se referă la carnea „disponibilă pentru consum”. Consumul real poate fi mai mic după corecția pentru risipa alimentară.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://data.oecd.org/agrooutput/consum-de-carne.htm",
+  "linkDataAccess": "https://data.oecd.org/agrooutput/consum-de-carne.html",
   "textCountryClick": "Faceți clic pentru mai multe informații"
 }

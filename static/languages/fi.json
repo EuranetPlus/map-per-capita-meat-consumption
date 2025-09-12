@@ -1,5 +1,5 @@
 {
-  "heading": "Lihan kulutus EU:ssa",
+  "heading": "Lihan kulutus EU:ssa vuonna 2021",
   "subheading": "Lihan kulutus henkeä kohti kilogrammoina EU:ssa (naudan- ja vasikanliha / sianliha / siipikarja / lammas / muu liha)",
   "legend1": "Ei tietoja saatavilla",
   "tooltip1": "kg henkilöä kohden",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Huomautus",
   "textNote": "Tiedot viittaavat 'kulutukseen saatavilla olevaan' lihaan. Todellinen kulutus voi olla pienempi ruokahävikin korjaamisen jälkeen.",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

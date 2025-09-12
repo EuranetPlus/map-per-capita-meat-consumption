@@ -1,5 +1,5 @@
 {
-  "heading": "Köttkonsumtion i EU",
+  "heading": "Köttkonsumtion i EU år 2021",
   "subheading": "Köttkonsumtion per capita i kilogram i EU (nötkött / fläskkött / fjäderfä / fårkött / annat kött)",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "kg per person",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Notera",
   "textNote": "Uppgifterna avser kött 'tillgängligt för konsumtion'. Den faktiska konsumtionen kan vara lägre efter korrigering för matsvinn.",
   "textDataAccess": "Åtkomst till data",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Klicka för mer information"
 }

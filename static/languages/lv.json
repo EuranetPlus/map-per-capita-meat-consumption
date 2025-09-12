@@ -1,5 +1,5 @@
 {
-  "heading": "Gaļas patēriņš ES",
+  "heading": "Gaļas patēriņš ES 2021. gadā",
   "subheading": "Gaļas patēriņš kilogramos uz vienu iedzīvotāju ES (liellopu un teļa gaļa / cūkgaļa / mājputnu gaļa / aitas gaļa / cita gaļa)",
   "legend1": "Dati nav pieejami",
   "tooltip1": "kg uz vienu cilvēku",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Piezīme",
   "textNote": "Dati attiecas uz gaļu, kas ir “pieejama patēriņam”. Faktiskais patēriņš var būt mazāks pēc pārtikas atkritumu korekcijas.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://data.oecd.org/agrotoutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

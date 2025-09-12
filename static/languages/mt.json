@@ -1,5 +1,5 @@
 {
-  "heading": "Il-konsum tal-laħam fl-UE",
+  "heading": "Il-konsum tal-laħam fl-UE fl-2021",
   "subheading": "Konsum tal-laħam per capita f'kilogrammi fl-UE (Ċanga u vitella / Majjal / Tjur / Nagħaġ / Laħam ieħor)",
   "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "kg għal kull persuna",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Nota",
   "textNote": "Id-dejta tirreferi għal-laħam 'disponibbli għall-konsum'. Il-konsum attwali jista' jkun inqas wara l-korrezzjoni għall-ħela tal-ikel.",
   "textDataAccess": "Aċċessa d-dejta",
-  "linkDataAccess": "https://data.oecd.org/agrooutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agrooutput/meat-consumption.html",
   "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

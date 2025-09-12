@@ -1,5 +1,5 @@
 {
-  "heading": "Spotreba mäsa v EÚ",
+  "heading": "Spotreba mäsa v EÚ v roku 2021",
   "subheading": "Spotreba mäsa na obyvateľa v kilogramoch v EÚ (hovädzie a teľacie mäso / bravčové mäso / hydina / ovčie mäso / iné mäso)",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "kg na osobu",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Poznámka",
   "textNote": "Údaje sa vzťahujú na mäso „k dispozícii na spotrebu“. Skutočná spotreba môže byť nižšia po korekcii plytvania potravinami.",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Kliknite pre viac informácií"
 }

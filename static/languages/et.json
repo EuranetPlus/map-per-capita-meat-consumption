@@ -1,5 +1,5 @@
 {
-  "heading": "Liha tarbimine ELis",
+  "heading": "Liha tarbimine ELis 2021. aastal",
   "subheading": "Liha tarbimine kilogrammides elaniku kohta ELis (veise- ja vasikaliha / sealiha / linnuliha / lambaliha / muu liha)",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "kg inimese kohta",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Märkus",
   "textNote": "Andmed viitavad tarbimiseks valmis lihale. Tegelik tarbimine võib pärast toidujäätmete korrigeerimist olla väiksem.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

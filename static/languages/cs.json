@@ -1,13 +1,13 @@
 {
-  "heading": "Spotřeba masa v EU",
+  "heading": "Spotřeba masa v EU v roce 2021",
   "subheading": "Spotřeba masa na obyvatele v kilogramech v EU (hovězí a telecí maso / vepřové maso / drůbež / skopové maso / ostatní maso)",
-  "legend1": "Žádné údaje k dispozici",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "kg na osobu",
   "textSourceDescription": "Zdroj",
   "textSource": "Organizace OSN pro výživu a zemědělství",
   "textNoteDescription": "Poznámka",
   "textNote": "Údaje se vztahují k masu „k dispozici ke spotřebě“. Skutečná spotřeba může být po korekci o plýtvání potravinami nižší.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Klikněte pro více informací"
 }

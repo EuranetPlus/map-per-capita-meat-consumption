@@ -1,5 +1,5 @@
 {
-  "heading": "Spożycie mięsa w UE",
+  "heading": "Spożycie mięsa w UE w 2021 r.",
   "subheading": "Spożycie mięsa na osobę w kilogramach w UE (wołowina i cielęcina / wieprzowina / drób / baranina / inne mięso)",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "kg na osobę",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Notatka",
   "textNote": "Dane odnoszą się do mięsa „dostępnego do spożycia”. Rzeczywiste spożycie może być niższe po uwzględnieniu marnowania żywności.",
   "textDataAccess": "Dostęp do danych",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

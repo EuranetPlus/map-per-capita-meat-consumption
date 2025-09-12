@@ -1,6 +1,6 @@
 {
-  "heading": "Kødforbrug i EU",
-  "subheading": "Kødforbrug pr. indbygger i kilogram i EU (oksekød / svinekød / fjerkræ / får / andet kød)",
+  "heading": "Kødforbrug i EU i 2021",
+  "subheading": "Kødforbrug pr. indbygger i kilogram i EU (okse- og kalvekød / svinekød / fjerkræ / får / andet kød)",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "kg pr. person",
   "textSourceDescription": "Kilde",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Note",
   "textNote": "Dataene refererer til kød, der er 'tilgængeligt til konsum'. Det faktiske forbrug kan være lavere efter korrektion for madspild.",
   "textDataAccess": "Få adgang til dataene",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Klik for mere information"
 }

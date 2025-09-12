@@ -1,5 +1,5 @@
 {
-  "heading": "Consumo de carne na UE",
+  "heading": "Consumo de carne na UE em 2021",
   "subheading": "Consumo de carne per capita em quilogramas na UE (carne bovina e de vitela / carne suína / aves / ovelha / outras carnes)",
   "legend1": "Nenhum dado disponível",
   "tooltip1": "kg por pessoa",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Observação",
   "textNote": "Os dados referem-se à carne 'disponível para consumo'. O consumo real pode ser menor após a correção para desperdício de alimentos.",
   "textDataAccess": "Acesse os dados",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Clique para mais informações"
 }

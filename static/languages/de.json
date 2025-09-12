@@ -1,6 +1,6 @@
 {
-  "heading": "Fleischkonsum in der EU",
-  "subheading": "Pro-Kopf-Fleischkonsum in Kilogramm in der EU (Rind- und Kalbfleisch / Schweinefleisch / Geflügel / Schaf / Sonstiges Fleisch)",
+  "heading": "Fleischkonsum in der EU im Jahr 2021",
+  "subheading": "Pro-Kopf-Fleischkonsum in Kilogramm in der EU (Rind- und Kalbfleisch / Schweinefleisch / Geflügel / Schaf / Sonstige Fleischsorten)",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "kg pro Person",
   "textSourceDescription": "Quelle",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Notiz",
   "textNote": "Die Daten beziehen sich auf „zum Verzehr verfügbares“ Fleisch. Der tatsächliche Verbrauch kann nach Berücksichtigung der Lebensmittelverschwendung niedriger ausfallen.",
   "textDataAccess": "Zugriff auf die Daten",
-  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.htm",
+  "linkDataAccess": "https://data.oecd.org/agroutput/meat-consumption.html",
   "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }
